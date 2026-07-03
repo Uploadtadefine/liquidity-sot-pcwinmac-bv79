@@ -1,4 +1,4 @@
-# 
+# Instant liquidity sniper bot tools for Mac OS | Updated liquidity sniper bot tools for PC Windows. Featuring event listeners and fast execution — optimized for maximum performance on every platform.
 
 
 
